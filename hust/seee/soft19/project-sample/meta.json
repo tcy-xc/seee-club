@@ -27,5 +27,6 @@
     "EmbeddedVideo": "<iframe height=498 width=510 src='http://player.youku.com/embed/XNDI5NDQ3NjgyMA==' frameborder=0 'allowfullscreen'></iframe>"
   },
   "TopPath": "/var/www/chibicms/wwwroot/contents/SEEEStudentCollections/seee/soft19/project-sample",
-  "ContentType": "Content"
+  "ContentType": "Link",
+  "Link":"/contents/kshub-projects/instructions/project-sample"
 }
