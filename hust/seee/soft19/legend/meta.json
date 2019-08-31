@@ -1,0 +1,27 @@
+{
+  "WebPath": null,
+  "Title": "五子棋",
+  "ChangeTime": "2019-08-02T10:58:26.9711366+08:00",
+  "CreatedTime": "2019-03-24T22:45:57.0893043+08:00",
+  "ViewedTimes": 0,
+  "Template": "projectView",
+  "Author": null,
+  "Cover": "20190829165029.png",
+  "Extras": {
+    "Posters": [
+      "20190829165210.png"
+    ],
+    "TeamMember": [
+      "张俊哲",
+      "何在荣",
+      "李贝奥"
+    ],
+    "TeamName": "legend",
+    "Abstract": "这个主要是运用了HTML、CSS、Javascript语言编写的网页版五子棋人机对战小游戏",
+    "Teacher": "郑玮",
+    "ProjectLink": "https://github.com/zhangjunzhe666/Go_bang",
+    "EmbeddedVideo": "https://b23.tv/av65849021"
+  },
+  "TopPath": "E:\\软件安装包\\project-sample",
+  "ContentType": "Content"
+}

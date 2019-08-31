@@ -1,0 +1,30 @@
+{
+  "WebPath": null,
+  "Title": "趣味游戏——猜数字",
+  "ChangeTime": "2019-08-02T10:58:26.9711366+08:00",
+  "CreatedTime": "2019-03-24T22:45:57.0893043+08:00",
+  "ViewedTimes": 0,
+  "Template": "projectView",
+  "Author": null,
+  "Cover": "cover.jpg",
+  "Extras": {
+    "Posters": [
+      "2019-08-15-09-24-27.png",
+      "2019-08-15-09-32-16.png",
+      "2019-08-15-09-35-49.png",
+      "2019-08-15-09-42-29.png"
+    ],
+    "TeamMember": [
+      "孙寒燚",
+      "吴新鹏",
+      "李剑豪"
+    ],
+    "TeamName": "对不队",
+    "Abstract": "这是一款在Android端的猜数字小游戏App，是一款不可多得的益智类小游戏，度过闲暇时间的首选游戏。  ",
+    "Teacher": "郑玮",
+    "ProjectLink": "https://github.com/hustshy/TeamWork-Guess-Number",
+    "EmbeddedVideo": "https://github.com/hustshy/TeamWork-Guess-Number"
+  },
+  "TopPath": "C:\\Users\\WXP\\Desktop\\对不队-U201711829-吴新鹏",
+  "ContentType": "Content"
+}
