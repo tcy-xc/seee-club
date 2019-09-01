@@ -1,0 +1,26 @@
+{
+  "WebPath": null,
+  "Title": "snake_dont_eat_too_much",
+  "ChangeTime": "2019-08-02T10:58:26.9711366+08:00",
+  "CreatedTime": "2019-03-24T22:45:57.0893043+08:00",
+  "ViewedTimes": 0,
+  "Template": "projectView",
+  "Author": null,
+  "Cover": null,
+  "Extras": {
+    "Posters": [],
+    "TeamMember": [
+      "队长",
+      "张宇航",
+      "队员",
+      "郝潇洒"
+    ],
+    "TeamName": "大家说的都队",
+    "Abstract": "该款贪吃蛇是一个会自动变长志在减肥变短的贪吃蛇，想要减肥成功就来吃更多的东西吧！",
+    "Teacher": "郑玮",
+    "ProjectLink": "https://github.com/zyhwork/snake_dont_eat_too_much.git",
+    "EmbeddedVideo": "https://www.bilibili.com/video/av66259693'allowfullscreen'></iframe>"
+  },
+  "TopPath": "C:\\Users\\NOGAMES\\Desktop\\project-sample",
+  "ContentType": "Content"
+}
