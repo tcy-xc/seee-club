@@ -1,5 +1,5 @@
 {
-  "WebPath": "/SEEEStudentCollections/seee/soft19/project-sample",
+  "WebPath": null,
   "Title": "这是一个例子，这里是项目的标题",
   "ChangeTime": "2019-08-02T10:58:26.9711366+08:00",
   "CreatedTime": "2019-03-24T22:45:57.0893043+08:00",
@@ -8,10 +8,11 @@
   "Author": null,
   "Cover": "cover.jpg",
   "Extras": {
-    "TeamName": "团队名称",
-    "Abstract": "这里是您项目的摘要，请您写一段话介绍一下吧。不要太长400个字以内哦",
-    "Teacher": "ָ指导老师的名字",
-    "ProjectLink": "https://github.com/the-real-jushen/chibicms",
+    "Posters": [
+      "1.jpg",
+      "2.jpg",
+      "有几个图片就写几条这个.png"
+    ],
     "TeamMember": [
       "张队长",
       "这里填写上有团队成员的名字，队长名字请写第一个",
@@ -19,14 +20,12 @@
       "张四",
       "有几个写几个记得删掉"
     ],
-    "Posters": [
-      "1.jpg",
-      "2.jpg",
-      "有几个图片就写几条这个.png"
-    ],
-    "EmbeddedVideo": "<iframe height=498 width=510 src='http://player.youku.com/embed/XNDI5NDQ3NjgyMA==' frameborder=0 'allowfullscreen'></iframe>"
+    "TeamName": "团队名称",
+    "Abstract": "这里是您项目的摘要，请您写一段话介绍一下吧。不要太长400个字以内哦",
+    "Teacher": "ָ指导老师的名字",
+    "ProjectLink": "https://github.com/the-real-jushen/chibicms",
+    "EmbeddedVideo": "<iframe width= 600  height=400 src=\"//player.bilibili.com/player.html?aid=62938151&cid=109330643&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>"
   },
-  "TopPath": "/var/www/chibicms/wwwroot/contents/SEEEStudentCollections/seee/soft19/project-sample",
-  "ContentType": "Link",
-  "Link":"/contents/kshub-projects/instructions/project-sample"
+  "TopPath": "H:\\WorkSpaceSync\\上课\\软件工程营\\华中科技大学课设作品\\seee-club\\instructions\\project-sample",
+  "ContentType": "Content"
 }
