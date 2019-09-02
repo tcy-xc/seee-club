@@ -20,7 +20,7 @@
     "Abstract": "这个主要是运用了HTML、CSS、Javascript语言编写的网页版五子棋人机对战小游戏",
     "Teacher": "郑玮",
     "ProjectLink": "https://github.com/zhangjunzhe666/Go_bang",
-    "EmbeddedVideo": "https://b23.tv/av65849021"
+    "EmbeddedVideo": "<iframe width= 600  height=400 src=\" //player.bilibili.com/player.html?aid=65849021&cid=114388335&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>"
   },
   "TopPath": "E:\\软件安装包\\project-sample",
   "ContentType": "Content"
