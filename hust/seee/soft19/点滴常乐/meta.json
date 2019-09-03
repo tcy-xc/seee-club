@@ -6,7 +6,7 @@
   "ViewedTimes": 0,
   "Template": "projectView",
   "Author": null,
-  "Cover": "X]PI@AT}X5@6}[E`4V_G9{3.png",
+  "Cover": "cover.jpg",
   "Extras": {
     "Posters": [],
     "TeamMember": [
@@ -17,7 +17,7 @@
     "Abstract": "简单的一个微信小游戏，在游戏中做出不同的选择会有不同的结果，在各种突发事件中获得游戏的乐趣",
     "Teacher": "郑玮",
     "ProjectLink": "https://github.com/fu-rui/homework.8.15",
-    "EmbeddedVideo": "https://www.bilibili.com/video/av66279208/"
+    "EmbeddedVideo": "<iframe width= 600  height=400 src=\"//player.bilibili.com/player.html?aid=66279208&cid=114953997&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>"
   },
   "TopPath": "C:\\Users\\付睿卿\\Desktop\\project-sample",
   "ContentType": "Content"

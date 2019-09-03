@@ -19,7 +19,7 @@
     "Abstract": "藏文阁是一个为了便于用户上传和修改文章而开发的网站，用户可以和他人分享自己喜欢的文章，也可以览阅其他人上传的文章。",
     "Teacher": "郑玮",
     "ProjectLink": "https://github.com/xuxuan1999/cangwenge",
-    "EmbeddedVideo": "https://www.bilibili.com/video/av65935935"
+    "EmbeddedVideo": "<iframe width= 600  height=400 src=\" //player.bilibili.com/player.html?aid=65935935&cid=114388335&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>"
   },
   "TopPath": "D:\\大学成果\\软件工程训练营\\U201711848",
   "ContentType": "Content"
