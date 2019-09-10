@@ -1,0 +1,26 @@
+{
+  "WebPath": null,
+  "Title": "权力的游戏主题消消乐",
+  "ChangeTime": "2019-08-02T10:58:26.9711366+08:00",
+  "CreatedTime": "2019-03-24T22:45:57.0893043+08:00",
+  "ViewedTimes": 0,
+  "Template": "projectView",
+  "Author": null,
+  "Cover": null,
+  "Extras": {
+    "Posters": [],
+    "TeamMember": [
+      "萧声扬U201711736",
+      "邱志宇U201711737",
+      "李浩波U201711739",
+      "肖力郎U201711754"
+    ],
+    "TeamName": "鄙人不善代码队",
+    "Abstract": "一款由python实现的消消乐",
+    "Teacher": "郑玮",
+    "ProjectLink": "https://github.com/ilem12138/project",
+    "EmbeddedVideo": "https://www.bilibili.com/video/av67177197?from=search&seid=17713557687539276729"
+  },
+  "TopPath": "C:\\Users\\xll\\Desktop\\project-sample",
+  "ContentType": "Content"
+}
