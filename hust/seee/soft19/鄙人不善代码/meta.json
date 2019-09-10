@@ -19,7 +19,7 @@
     "Abstract": "一款由python实现的消消乐",
     "Teacher": "郑玮",
     "ProjectLink": "https://github.com/ilem12138/project",
-    "EmbeddedVideo": "https://www.bilibili.com/video/av67177197?from=search&seid=17713557687539276729"
+    "EmbeddedVideo": "<iframe width= 600  height=400 src=\" //player.bilibili.com/player.html?aid=67177197&cid=116483191&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>"
   },
   "TopPath": "C:\\Users\\xll\\Desktop\\project-sample",
   "ContentType": "Content"
