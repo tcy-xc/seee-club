@@ -20,7 +20,7 @@
     "Abstract": "基于MATLAB开发的MATLAB数学建模工具箱，用于数学建模，集成了模型参数选择、模型求解、模型结果分析。目前开发了多元线性回归、预测神经网络、时间序列函数拟合、K临近分类算法，并设计了APP界面，方便使用。",
     "Teacher": "郑玮",
     "ProjectLink": "https://github.com/TTJQ/MATLAB_MathModelToolBox",
-    "EmbeddedVideo": "<iframe src=\"//player.bilibili.com/player.html?aid=66681040&cid=115814494&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>"
+    "EmbeddedVideo": "<iframe width= 600  height=400 src=\"//player.bilibili.com/player.html?aid=66681040&cid=115814494&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>"
   },
   "TopPath": "D:\\软件\\QQ\\1873531068\\FileRecv\\project-sample",
   "ContentType": "Content"
