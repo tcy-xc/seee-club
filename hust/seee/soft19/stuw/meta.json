@@ -1,0 +1,25 @@
+{
+  "WebPath": null,
+  "Title": "大创信息系统",
+  "ChangeTime": "2019-08-02T10:58:26.9711366+08:00",
+  "CreatedTime": "2019-03-24T22:45:57.0893043+08:00",
+  "ViewedTimes": 0,
+  "Template": "projectView",
+  "Author": null,
+  "Cover": "cover (2).jpg",
+  "Extras": {
+    "Posters": [],
+    "TeamMember": [
+      "韦钧文",
+      "谢敬瑶",
+      "姜家兴"
+    ],
+    "TeamName": "不知道叫什么队",
+    "Abstract": "这里是您项目的摘要，请您写一段话介绍一下吧。不要太长400个字以内哦",
+    "Teacher": "",
+    "ProjectLink": "https://github.com/wjw165/kaimosec2019/tree/wjw165-patch-1",
+    "EmbeddedVideo": "<iframe height=498 width=510 src='https://v.youku.com/v_show/id_XNDM1NjE1MTAzNg==.html?x&sharefrom=android&sharekey=000a3ab0475b32b98f8ad7fd819ddb553' frameborder=0 'allowfullscreen'></iframe>"
+  },
+  "TopPath": "C:\\Users\\HP\\Documents\\Tencent Files\\571489971\\FileRecv\\project-sample",
+  "ContentType": "Content"
+}
