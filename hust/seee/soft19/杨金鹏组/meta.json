@@ -1,0 +1,24 @@
+{
+  "WebPath": null,
+  "Title": "课程表App",
+  "ChangeTime": "2019-08-02T10:58:26.9711366+08:00",
+  "CreatedTime": "2019-03-24T22:45:57.0893043+08:00",
+  "ViewedTimes": 0,
+  "Template": "projectView",
+  "Author": null,
+  "Cover": null,
+  "Extras": {
+    "Posters": [],
+    "TeamMember": [
+      "杨金鹏队长",
+      "张凯华"
+    ],
+    "TeamName": "杨金鹏组",
+    "Abstract": "此App主要功能有：\r\n1.添加课程，用户能够添加课程名称、上课教室、起止节数、起止周数导入课程信息；\r\n2.删除课程，用户能够通过输入课程名称以及上课的星期日删除该课程；\r\n3.导入课程，用户能够通过设置当前学期、用户所在年级与班级，本学期开学第一天日期来导入当前学期课程； \r\n4.查看不同周课程，用户可下拉选择要查看的周的课程。",
+    "Teacher": "",
+    "ProjectLink": "暂无",
+    "EmbeddedVideo": "<iframe height=498 width=510 src='http://player.youku.com/embed/XNDM1OTUyNDMwMA==' frameborder=0 'allowfullscreen'></iframe>"
+  },
+  "TopPath": "D:\\FileHere\\project-sample\\project-sample",
+  "ContentType": "Content"
+}
